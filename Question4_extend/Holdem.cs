@@ -1,8 +1,8 @@
 namespace Question4_extend
 {
-    public partial class Form1 : Form
+    public partial class Holdem : Form
     {
-        public Form1()
+        public Holdem()
         {
             InitializeComponent();
         }

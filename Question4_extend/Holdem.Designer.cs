@@ -1,6 +1,6 @@
 ﻿namespace Question4_extend
 {
-    partial class Form1
+    partial class Holdem
     {
         /// <summary>
         ///  Required designer variable.
@@ -28,10 +28,16 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            SuspendLayout();
+            // 
+            // Holdem
+            // 
+            AutoScaleDimensions = new SizeF(7F, 17F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Text = "Form1";
+            Name = "Holdem";
+            Text = "德州扑克";
+            ResumeLayout(false);
         }
 
         #endregion

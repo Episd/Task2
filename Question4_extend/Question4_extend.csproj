@@ -8,4 +8,12 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\YZJ\CSharp\Task2\Question4_extend\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\YZJ\CSharp\Task2\Question4_extend\.editorconfig" />
+  </ItemGroup>
+
 </Project>
